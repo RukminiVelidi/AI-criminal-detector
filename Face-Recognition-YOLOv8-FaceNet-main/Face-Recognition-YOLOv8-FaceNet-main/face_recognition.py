@@ -40,7 +40,7 @@ EMAIL_ENABLED = True
 
 EMAIL_SENDER = "kommanapavani12@gmail.com"
 EMAIL_PASSWORD = "qnhjqdgddzavyucq"   # Gmail App Password
-EMAIL_RECEIVER = "tsrsreekari@gmail.com"
+EMAIL_RECEIVER = "rukminivelidi5758@gmail.com"
 
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
