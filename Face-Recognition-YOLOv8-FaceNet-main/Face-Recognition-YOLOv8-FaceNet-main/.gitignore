@@ -1,0 +1,19 @@
+# Virtual env
+venv/
+__pycache__/
+
+# Runtime data
+faces_db/
+videos/
+logs/
+evidence/
+
+# Generated files
+known_embeddings.pkl
+
+# OS / Editor
+.DS_Store
+.vscode/
+
+# Python
+*.pyc
