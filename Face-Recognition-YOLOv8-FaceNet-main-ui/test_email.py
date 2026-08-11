@@ -3,7 +3,7 @@ from email.message import EmailMessage
 
 EMAIL_SENDER = "kommanapavani12@gmail.com"
 EMAIL_PASSWORD = "qnhjqdgddzavyucq"
-EMAIL_RECEIVER = "tsrsreekari@gmail.com"
+EMAIL_RECEIVER = "rukminivelidi5758@gmail.com"
 
 msg = EmailMessage()
 msg["Subject"] = "TEST EMAIL – Face Recognition Project"
